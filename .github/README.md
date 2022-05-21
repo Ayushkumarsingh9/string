@@ -33,11 +33,11 @@
 
 
 
-#ᴄʀᴇᴅɪᴛ
+# ᴄʀᴇᴅɪᴛ
 
 [ᴍᴜᴋᴇsʜ](https://t.me/itz_mst_boy)
 
-[](https://t.me/)
+[ᴀɴᴏɴʏᴍᴏᴜs](https://t.me/anonymous_was_bot)
 
 #  sᴜᴘᴘᴏʀᴛ ɴᴅ ᴜᴘᴅᴀᴛᴇs
 
