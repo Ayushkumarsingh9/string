@@ -25,7 +25,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-  "repository": "https://github.com/Itz-mst-boy/fuck",
+  "repository": "https://github.com/Itz-mst-boy/string",
   "env": {
     "ENVIRONMENT": {
       "description": "Don't change ANYTHING.",
@@ -45,7 +45,7 @@
     "MUST_JOIN": {
       "description": "Username of a group or channel for which you want to set force sub.(without @)",
       "required": true,
-      "value": "DevilsHeavenMF"
+      "value": "mukhushi_official"
     },
     "BOT_TOKEN": {
       "description": "Get this value from @BotFather",
