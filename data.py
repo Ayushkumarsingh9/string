@@ -9,7 +9,7 @@ class Data:
     buttons = [
         generate_single_button,
         [InlineKeyboardButton("❣️ sᴜᴩᴩᴏʀᴛ ❣️", url="https://t.me/worldwide_friend_zone"),
-         InlineKeyboardButton("🥀ᴍᴏɪ ɴᴇᴛᴡᴏʀᴋ ʙʙ🥀", url="https://t.me/mastermind_network_official"),
+         InlineKeyboardButton("🥀ᴍᴏɪ ɴᴇᴛᴡᴏʀᴋ 🥀", url="https://t.me/mastermind_network_official"),
         ],
     ]
 
@@ -19,6 +19,6 @@ Hᴇʏ {},
 Tʜɪs ɪs {},
 A sᴛʀɪɴɢ sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ, ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ ᴩʏʀᴏɢʀᴀᴍ.
 
-Sᴏ: [ɴᴇᴛᴡᴏʀᴋ](https://t.me/worldwide_friend_zone)
+ᴊᴏɪɴ: [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/worldwide_friend_zone)
 Mᴀᴅᴇ ᴡɪᴛʜ ❤ ʙʏ : [ᴍᴜᴋᴇsʜ](https://t.me/itz_mst_boy) !
     """
