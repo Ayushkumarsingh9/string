@@ -35,7 +35,7 @@
 
 # ᴄʀᴇᴅɪᴛ
 
-[ᴍᴜᴋᴇsʜ](https://t.me/itz_mst_boy)
+[ᴍᴜᴋᴇsʜ](https://t.me/itz_mst_boi)
 
 [ᴀɴᴏɴʏᴍᴏᴜs](https://t.me/anonymous_was_bot)
 
